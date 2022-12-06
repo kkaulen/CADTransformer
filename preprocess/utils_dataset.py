@@ -4,6 +4,7 @@ import time
 import math
 import copy
 import numpy as np
+import signal
 from xml.dom import minidom
 import xml.etree.ElementTree as ET
 import pandas as pd

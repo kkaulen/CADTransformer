@@ -11,7 +11,7 @@ from svgpathtools import parse_path
 import multiprocessing as mp
 from multiprocessing import Pool
 from functools import partial
-from _utils_dataset import *
+from utils_dataset import *
 import torch
 
 def parse_args():
